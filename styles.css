@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+body{
+	background-color:;
+}
+.movei{
+	text-align: center;
+	background-color: gray;
+	padding: 3px;
+	border-radius: 10px;
+}
+#nav-actor{
+	background-color: ;
+}
